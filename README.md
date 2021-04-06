@@ -2,7 +2,7 @@
 ## *A web analytics keyword dashboard*
 
 ### Front-End : 
-[Twitter Analytics Front End](https://github.com/noeklk/twitter_api_project_front_end)
+[Twitter Analytics Front End](https://github.com/ouijdane110/twitter_api_project_front_end)
 
 ### Description
 
